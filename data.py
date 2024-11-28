@@ -1,0 +1,11 @@
+list1=["muhammad", "abdullah", 100, "u", 890]
+print("the first index element is", list1[0])
+print("The slicing element is", list1[1:4])
+print("The Negative slicing element is", list1[-4:-1])
+print("The no of elements in the list", len(list1))
+print ("The first pop is:",list1.pop())
+print(list1)
+print ("The insert value is", list1. insert(2, "computer"))
+print("print the list after inserting" ,list1)
+print("appending", list1. append("pakistan"))
+print(list1)
